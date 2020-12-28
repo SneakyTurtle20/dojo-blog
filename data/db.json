@@ -28,6 +28,15 @@
         "css"
       ],
       "id": 3
+    },
+    {
+      "title": "add",
+      "body": "new",
+      "tags": [
+        "css",
+        "news"
+      ],
+      "id": 4
     }
   ]
 }
